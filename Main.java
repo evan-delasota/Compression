@@ -1,8 +1,8 @@
 class Main {
   public static void main(String[] args) {
     String s = "aabcccccaaa";
+    
     System.out.println(s);
-
     System.out.println(compression(s));
   }
 
